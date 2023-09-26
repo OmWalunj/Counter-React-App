@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(177, 177, 177);
+  border: 5px solid red;
+  border-radius: 5px;
+  width: 500px;
+  height: 520px;
+  justify-items: center;
+  
+
+}
+.Myapp{
+  background: rgb(7, 7, 7);
+  display: flex;
+ 
+
+
+}
+
+.Counter{
+  color: rgb(247, 255, 25);
+ display: flex;
+text-align: center;
+justify-content: center;
+
+}
+
+.Count{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.Buttons{
+  display: flex;
+  text-align: center;
+  margin: 5px;
+  text-align: center;
+  justify-content: center;
+  gap: 50px;
+  padding: 10px 15px;
+  
+}
+
+
+
